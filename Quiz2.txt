@@ -1,2 +1,3 @@
 Hello World!
 Here is a second change
+Branch 1 merge conflict Text
