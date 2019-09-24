@@ -1,3 +1,6 @@
 Hello World!
 Here is a second change
 Branch 1 merge conflict Text
+Merge conflict for second branch**
+Now we have both lines of text
+
